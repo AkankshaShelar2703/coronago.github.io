@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!-- saved from url=(0035)http://localhost/coronago/index.php -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title></title>
